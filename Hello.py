@@ -6,7 +6,8 @@ URL:        Link to your web application on Streamlit Cloud (if posted)
 
 Description:
 
-This program ... (a few sentences about your program and the queries and charts)
+This program shows the trash pickups in the Boston area. I made a map showing dots for the charts. The graphs show city+day pickup. The pie charts show the recollection
+days and the Public works district breakdown. There are filters to sort by city and by day. The graphs will also update to reflect any filters.
 """
 
 import streamlit as st
